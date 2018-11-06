@@ -1,0 +1,1 @@
+curl -X POST http://localhost:8086/send?toEmail=corey.musa@smartstream-stp.com?fromEmail=HSBCEMAILMAN@Domain.com?host=mail.smartstream-stp.com/
